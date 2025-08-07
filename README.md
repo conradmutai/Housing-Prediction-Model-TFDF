@@ -10,6 +10,8 @@ This repository can also be used as a way to track the progression of this model
 
 ## Scores
 * Attempt 1: 0.13514
+* Attempt 2: 0.23787
+* Attempt 3: 0.15425
 
 ## Data Analysis
 The notebook contained in this repository also features an extensive exploration of the correlation and functional relationships between the features (**numerical ones only**) and the output value (Sale Price). It also further utilizes a wide range of graphical techniques and methods to provide a visual representation of the relationship between the features and the output value.
